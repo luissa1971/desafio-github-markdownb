@@ -27,3 +27,10 @@ README.md
 ## Autor
 
 Luis Henrique Gonçalves de Sá
+
+## Como contribuir
+
+1. Faça um Fork
+2. Crie uma Branch
+3. Faça suas alterações
+4. Abra um Pull Request
